@@ -1,0 +1,23 @@
+npm install jspdf jspdf-autotable
+
+https://sourceforge.net/projects/jspdf.mirror/
+
+npm install --save \
+  @fullcalendar/core \
+  @fullcalendar/angular \
+  @fullcalendar/daygrid \
+  @fullcalendar/interaction
+  
+ https://fullcalendar.io/
+
+npm install ng2-charts chart.js --save
+
+https://www.npmjs.com/package/ng2-charts
+
+npm install bcryptjs
+
+https://www.npmjs.com/package/bcrypt
+
+npm install --save-dev typescript
+
+https://www.npmjs.com/package/typescript

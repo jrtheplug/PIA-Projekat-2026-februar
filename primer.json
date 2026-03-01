@@ -1,0 +1,21 @@
+{
+    "name": "Ime prostora",
+    "city": "Konjarnik",
+    "address": "Bvzve 12",
+    "company": "Umm",
+    "menager": {
+      "firstname": "Joca",
+      "lastname": "Jocic",
+      "username": "jocke37",
+      "type": "administrator",
+      "id": "698f27ed75e2d59b5006f0e1"
+    },
+    "likes": 207,
+    "dislikes": 7,
+    "pictures": [],
+    "location": "44.81, 20.46",
+    "openSpace": 10,
+    "offices": [],
+    "confs": [],
+    "comments": []
+  }
