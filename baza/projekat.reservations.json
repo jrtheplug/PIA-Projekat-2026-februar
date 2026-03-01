@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6999a3645041a1a92a2b81de"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-04T10:00:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-04T11:00:00.000Z"
+  },
+  "type": "openSpace",
+  "status": "A",
+  "showed": "T",
+  "name": "Otvoren prostor"
+},
+{
+  "_id": {
+    "$oid": "6999aa245041a1a92a2b81e1"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-02T14:00:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-02T15:00:00.000Z"
+  },
+  "type": "office",
+  "status": "A",
+  "showed": "T",
+  "name": "Kanc 1"
+},
+{
+  "_id": {
+    "$oid": "699dadc5ef4be65fdd901366"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-05T17:50:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-05T18:50:00.000Z"
+  },
+  "type": "conf",
+  "status": "A",
+  "showed": "T",
+  "name": "Conf 1"
+},
+{
+  "_id": {
+    "$oid": "699e3907ef4be65fdd90137d"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-06T14:00:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-06T15:00:00.000Z"
+  },
+  "type": "office",
+  "status": "A",
+  "showed": "F",
+  "name": "Kanc 2"
+},
+{
+  "_id": {
+    "$oid": "69a1da4638482049aa6be45e"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-07T14:00:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-07T15:00:00.000Z"
+  },
+  "type": "office",
+  "status": "A",
+  "showed": "T",
+  "name": "Kanc 1"
+},
+{
+  "_id": {
+    "$oid": "69a1e984adc9061bb4751eba"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f15"
+  },
+  "from": {
+    "$date": "2026-03-01T18:00:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-01T19:00:00.000Z"
+  },
+  "type": "confs",
+  "status": "A",
+  "name": "Conf 2",
+  "__v": 0,
+  "showed": "T"
+},
+{
+  "_id": {
+    "$oid": "69a37babc0faf40083c68582"
+  },
+  "user": {
+    "$oid": "6991bf5473f58efb8a50079f"
+  },
+  "space": {
+    "$oid": "699d7a768d5404f752470f16"
+  },
+  "from": {
+    "$date": "2026-03-03T14:30:00.000Z"
+  },
+  "to": {
+    "$date": "2026-03-03T15:30:00.000Z"
+  },
+  "type": "openSpace",
+  "status": "A",
+  "name": "openSpace",
+  "__v": 0
+}]
